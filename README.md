@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="./gifs/imkyoung_hello.gif">
+
+
 <div align=center><h1>🛠Stack🛠</h1></div>
 
 <div align=center">
